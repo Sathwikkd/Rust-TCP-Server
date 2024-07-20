@@ -1,4 +1,4 @@
-Rust TCP Server
+###Rust TCP Server
 Welcome to the Rust TCP Server project! This repository contains a simple TCP server implemented in Rust, designed to handle client connections and respond with a predefined message.
 🦀🦀 🦀🦀🦀 🦀🦀🦀🦀🦀 🦀🦀🦀 🦀🦀
 Features
