@@ -24,6 +24,7 @@ fn main() {
             }
             Err(e) => {
                 eprintln!("failed to establish connection: {}", e);
+                
             }
         }
     }
