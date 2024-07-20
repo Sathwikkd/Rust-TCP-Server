@@ -15,5 +15,5 @@ To get started with this project, you'll need to have Rust installed on your mac
 ### Clone the Repository
 🦀🦀🦀 🦀🦀🦀🦀🦀 🦀🦀🦀
 ```bash
-git clone https://github.com/yourusername/rust-tcp-server.git
+git clone https://github.com/Sathwikkd/rust-tcp-server.git
 cd rust-tcp-server
